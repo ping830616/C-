@@ -1,5 +1,9 @@
 # C#
 
+The sequence:
+        
+        Fundemantals of C# --> Telecommunication between PC and PLC --> Camera and light source (optics) --> Machine Vision
+
 Several applications of C# are listed below:
 
 1. Calculator with a digital clock
