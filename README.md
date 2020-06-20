@@ -15,10 +15,9 @@ Several applications of C# are listed below:
     
     
 3. The connection between PC and PLC
-    - A diagram to show the communication between PC and PLC demonstrated below.
+    - A diagram to show the communication between PC and PLC demonstrated below. <br /> 
 
-    
-    <img width="635" alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG">
+  <img width="635" alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG"  width=100%, height="450" >
     
     
 4. Image processing
