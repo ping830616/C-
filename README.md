@@ -6,19 +6,19 @@ The sequence:
 
 Several applications of C# are listed below:
 
-1. Calculator with a digital clock
-    - the similar calcular on the phone and the digital clock in coding runs the same as it does now.
+**Calculator with a digital clock**<br>
+    The similar calcular on the phone and the digital clock in coding runs the same as it does now.
     
     
-2. Interaction between Server and Client
-    - like the social media, Line and Skype that messages can be sent and received from each side.
+**Interaction between Server and Client**<br>
+    like the social media, Line and Skype that messages can be sent and received from each side.
     
     
-3. The connection between PC and PLC
-    - A diagram to show the communication between PC and PLC demonstrated below. <br /> 
+**The connection between PC and PLC**<br>
+    A diagram to show the communication between PC and PLC demonstrated below. <br /> <br /> 
 
-  <img width="635" alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG"  width=100%, height="450" >
+  <img alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG" align="center" width="900" height="600"/>
     
     
-4. Image processing
-    - Analyzing and optimizing the image with algorithms.
+**Image processing**<br>
+    Analyzing and optimizing the image with algorithms.
