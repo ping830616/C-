@@ -16,8 +16,10 @@ Several applications of C# are listed below:
 
 **Another Calculator**<br>
     Another calculator with a different construction and functionality. 
-    
-    
+  
+  <img alt="Arithmetic Calculation" src="Arithmetic Calculation.PNG" align="center" width="1000" height="600"/>
+  
+  
 **Interaction between Server and Client**<br>
     like the social media, Line and Skype that messages can be sent and received from each side.
     
