@@ -11,7 +11,11 @@ The sequence for the great way to learn about C# in applicability:
 Several applications of C# are listed below:
 
 **Calculator with a digital clock**<br>
-    The similar calcular on the phone and the digital clock in coding runs the same as it does now.
+    A similar calcular on the phone and the digital clock in coding runs the same as it does now.
+
+
+**Another Calculator**<br>
+    Another calculator with a different construction and functionality. 
     
     
 **Interaction between Server and Client**<br>
@@ -26,3 +30,5 @@ Several applications of C# are listed below:
     
 **Image processing**<br>
     Analyzing and optimizing the image with algorithms.
+    
+    
