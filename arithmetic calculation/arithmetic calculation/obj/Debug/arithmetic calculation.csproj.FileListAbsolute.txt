@@ -1,0 +1,9 @@
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\bin\Debug\arithmetic calculation.exe.config
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic calculation.csprojResolveAssemblyReference.cache
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic_calculation.Form1.resources
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic_calculation.Properties.Resources.resources
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic calculation.csproj.GenerateResource.Cache
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\bin\Debug\arithmetic calculation.exe
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\bin\Debug\arithmetic calculation.pdb
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic calculation.exe
+d:\users\user\documents\visual studio 2013\Projects\arithmetic calculation\arithmetic calculation\obj\Debug\arithmetic calculation.pdb
