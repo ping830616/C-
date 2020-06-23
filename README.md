@@ -11,7 +11,7 @@ The sequence for the great way to learn about C# in applicability:
 Several applications of C# are listed below:
 
 **Calculator with a digital clock**<br>
-    A similar calcular on the phone and the digital clock in coding runs the same as it does now.
+    A similar calcular on the phone and the digital clock in coding runs the same as it does now. 
 
    <img alt="calculator.timer" src="https://user-images.githubusercontent.com/61397022/85372991-32649b80-b565-11ea-85da-4de15419bf22.PNG"  align="center" width="750" height="450"/>
 
