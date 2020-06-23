@@ -13,11 +13,13 @@ Several applications of C# are listed below:
 **Calculator with a digital clock**<br>
     A similar calcular on the phone and the digital clock in coding runs the same as it does now.
 
+   <img alt="calculator.timer" src="https://user-images.githubusercontent.com/61397022/85372991-32649b80-b565-11ea-85da-4de15419bf22.PNG"  align="center" width="750" height="450"/>
+
 
 **Another Calculator**<br>
     Another calculator with a different construction and functionality. 
   
-  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="800" height="500"/>
+  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="750" height="450"/>
   
   
 **Interaction between Server and Client**<br>
