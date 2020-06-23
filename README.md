@@ -32,7 +32,7 @@ Several applications of C# are listed below:
     A diagram to show the communication between PC and PLC demonstrated below. <br /> <br /> 
 
   <img alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG" align="center" width="1000" height="600"/>
-  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="750" height="450"/>
+  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85376776-c422d780-b56a-11ea-9a23-60ad1a798c01.PNG" align="center" width="750" height="450"/>
     
 **Image processing**<br>
     Analyzing and optimizing the image with algorithms.
