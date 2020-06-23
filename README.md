@@ -25,12 +25,14 @@ Several applications of C# are listed below:
 **Interaction between Server and Client**<br>
     like the social media, Line and Skype that messages can be sent and received from each side.
     
+   <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85377184-49a68780-b56b-11ea-96d2-08a6141ad3c7.PNG" align="center" width="750" height="450"/>
+    
     
 **The connection between PC and PLC**<br>
     A diagram to show the communication between PC and PLC demonstrated below. <br /> <br /> 
 
   <img alt="PC_PLC" src="https://user-images.githubusercontent.com/61397022/85202486-5348a900-b339-11ea-8722-728724249210.PNG" align="center" width="1000" height="600"/>
-    
+  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="750" height="450"/>
     
 **Image processing**<br>
     Analyzing and optimizing the image with algorithms.
