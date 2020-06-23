@@ -17,7 +17,7 @@ Several applications of C# are listed below:
 **Another Calculator**<br>
     Another calculator with a different construction and functionality. 
   
-  <img alt="Arithmetic Calculation" src="Arithmetic Calculation.PNG" align="center" width="1000" height="600"/>
+  <img alt="Arithmetic Calculation" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="800" height="500"/>
   
   
 **Interaction between Server and Client**<br>
