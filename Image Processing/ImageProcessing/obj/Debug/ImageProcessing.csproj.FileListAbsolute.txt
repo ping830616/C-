@@ -1,0 +1,18 @@
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\WindowsFormsApplication2.exe
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\WindowsFormsApplication2.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\bin\Debug\WindowsFormsApplication2.exe
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\bin\Debug\WindowsFormsApplication2.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Image Processing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
