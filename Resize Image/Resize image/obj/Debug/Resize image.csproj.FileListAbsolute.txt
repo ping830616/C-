@@ -1,0 +1,18 @@
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Resize image.csprojResolveAssemblyReference.cache
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Resize image.csproj.GenerateResource.Cache
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+d:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\WindowsFormsApplication3.exe
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\WindowsFormsApplication3.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\bin\Debug\WindowsFormsApplication3.exe
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\bin\Debug\WindowsFormsApplication3.pdb
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\Resize image.csprojResolveAssemblyReference.cache
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Resize Image\Resize image\obj\Debug\Resize image.csproj.GenerateResource.Cache
