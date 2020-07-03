@@ -1,0 +1,9 @@
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\bin\Debug\bitmap-graphics-imageprocessing.exe.config
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\bin\Debug\bitmap-graphics-imageprocessing.exe
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\bin\Debug\bitmap-graphics-imageprocessing.pdb
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap-graphics-imageprocessing.csprojResolveAssemblyReference.cache
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap_graphics_imageprocessing.Form1.resources
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap_graphics_imageprocessing.Properties.Resources.resources
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap-graphics-imageprocessing.csproj.GenerateResource.Cache
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap-graphics-imageprocessing.exe
+d:\users\user\documents\visual studio 2013\Projects\bitmap-graphics-imageprocessing\bitmap-graphics-imageprocessing\obj\Debug\bitmap-graphics-imageprocessing.pdb

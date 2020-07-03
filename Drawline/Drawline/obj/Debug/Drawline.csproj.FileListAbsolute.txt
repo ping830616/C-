@@ -1,0 +1,3 @@
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Drawline\Drawline\bin\Debug\bitmap-graphics-imageprocessing.exe.config
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Drawline\Drawline\obj\Debug\bitmap-graphics-imageprocessing.exe
+D:\Users\USER\Documents\Visual Studio 2013\Projects\Drawline\Drawline\obj\Debug\bitmap-graphics-imageprocessing.pdb
