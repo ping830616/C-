@@ -1,0 +1,10 @@
+D:\Users\USER\Desktop\tcp\tcp\bin\Debug\tcp.exe.config
+D:\Users\USER\Desktop\tcp\tcp\bin\Debug\tcp.exe
+D:\Users\USER\Desktop\tcp\tcp\bin\Debug\tcp.pdb
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.csprojResolveAssemblyReference.cache
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.ClientForm.resources
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.Properties.Resources.resources
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.ServerForm.resources
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.csproj.GenerateResource.Cache
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.exe
+D:\Users\USER\Desktop\tcp\tcp\obj\Debug\tcp.pdb
