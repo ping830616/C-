@@ -37,4 +37,4 @@ Several applications of C# are listed below:
 **Image processing**<br>
     Analyzing and optimizing the image with algorithms.
     
-    
+    <img alt="image processing - circle" src="https://user-images.githubusercontent.com/61397022/85372670-c2eeac00-b564-11ea-9787-ac7c0b9355d2.PNG" align="center" width="750" height="450"/>
