@@ -1,0 +1,9 @@
+D:\Users\USER\Desktop\C# code\circle\circle\bin\Debug\circle.exe.config
+D:\Users\USER\Desktop\C# code\circle\circle\bin\Debug\circle.exe
+D:\Users\USER\Desktop\C# code\circle\circle\bin\Debug\circle.pdb
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.csprojResolveAssemblyReference.cache
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.Form1.resources
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.Properties.Resources.resources
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.csproj.GenerateResource.Cache
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.exe
+D:\Users\USER\Desktop\C# code\circle\circle\obj\Debug\circle.pdb
